@@ -88,7 +88,7 @@ Advanced speaking activities, such as debates, presentations, and role-playing s
 Easy translations plus a forum to discuss phrases.
 
 - [Linguee](https://www.linguee.es/) <br />
-I haven´t tested in deepth.
+I haven´t tested in depth.
 
 ### Pronunciation-Checker
 - [Forvo](https://forvo.com/) <br />
@@ -98,7 +98,7 @@ Find out how any English word is pronounced in different countries.
 Find out how any English word is pronounced in the real world. It will give you a search on YouTube for any video where that phrase or word is said.
 
 - [GetYarn](https://getyarn.io/)<br />
-Similar to the last one but it will give you the option to download the clip.
+It is similar to the last one but it will give you the option to download the clip.
 
 ## Where can I learn basic-general English? 
 #### Blogs and Website
@@ -169,7 +169,7 @@ Your writing is at its best. Grammarly makes sure everything you type is clear, 
 View definitions easily as you browse the web.
 
 - [Pact English](https://chromewebstore.google.com/detail/pact-english/cajdgbcnafdfgmnignadekjeofblcmio?hl=en&pli=1) <br />
-It helps users practice English while watching Youtube videos by turning some subtitles into dictation or fill-in-the-blank practices.
+It helps users practice English while watching YouTube videos by turning some subtitles into dictation or fill-in-the-blank practices.
 
 ## Courses
 
@@ -210,15 +210,12 @@ Improve your spelling and typing speed, you can even race against yourself and o
 Create a fun learning game in minutes – we call these **kahoots**. You can make a series of multiple-choice questions or try our new game
 
 * [Duolingo](https://www.duolingo.com/) <br />
-A spinoff of the popular app, specifically for Spanish speakers. Learn English by listening to fun and interesting stories. 
+It is a popular app but it is a bit repetitive.
 
 ## Podcasts
 
 * [Coffee Break English](https://radiolingua.com/coffee-break-english/) <br />
-Learn to speak English at the same time it takes you to enjoy a cup of coffee each morning.
-
-* [Real life English](https://reallifeglobal.com/) <br />
-Speak and Learn Natural English Anytime, Anywhere. 
+Learn to speak English at the same time it takes you to enjoy a cup of coffee each morning. Real-life[ English](https://reallifeglobal.com/)  Speak and Learn Natural English Anytime, Anywhere. 
 
 
 
@@ -233,8 +230,6 @@ Classic stories, with simplified grammar and vocabulary. You can follow the tape
 * [Learn English With TV Series](https://www.youtube.com/channel/UCKgpamMlm872zkGDcBJHYDg) <br />
 Are you ready to have a lot of fun learning real-life English with "Learn English with TV Series?"
 
-* [Mairo Vergara](https://www.youtube.com/user/MairoVergara) 🇧🇷→🇬🇧<br />
-Neste canal você encontrará dicas sobre como aprender inglês de forma rápida e eficiente! Embora o foco do canal seja o inglês, a grande maioria das dicas também pode ser aplicada no estudo de outros idiomas estrangeiros.
 
 * [Mental_Floss episode on English Grammar](https://youtu.be/QEBOYOlROU8) <br />
 a quick and easy-to-understand breakdown of some English grammar.
