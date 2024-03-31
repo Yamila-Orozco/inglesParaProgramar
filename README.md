@@ -50,6 +50,7 @@ The English for Developing "Inglés para Programar" Project is a collaborative i
 
 <!-- START SECOND SECTION -ROADMAPS IN PROGRESS-->
 ## RoadMap to Learn English
+This section is a work in progress, just like my attempt to follow a step-by-step roadmap to be a developer—let's hope I don't get lost along the way! 😄 I will write a guide for each RoadMap
 ### Beginner Roadmap
 The Beginner Roadmap is designed for developers who are just starting their English language learning journey. This roadmap focuses on foundational language skills and includes:
 - [ ] Basic vocabulary lists related to programming concepts and common tech terms.
@@ -245,3 +246,14 @@ Are you ready to have a lot of fun learning real-life English with "Learn Englis
 
 - [IELTS Free Practice Tests](https://www.ielts.org/about-the-test/free-practice-tests): The International English Language Testing System (IELTS) provides free practice tests online for both the Academic and General Training modules.
 
+## Contributing
+Hey there, coder👩🏽‍💻👨🏽‍💻! 👋 We love contributions because they make our open-source community awesome! If you have a brilliant idea to make this project even better, feel free to fork the repo and send us a pull request (Remember that I'm a super junior developer 😂). Or, if you prefer, just drop us a line with your suggestion tagged as "enhancement". And hey, don't forget to give us a star ⭐️! Thanks a bunch for being part of our coding adventure! 
+
+## license
+
+## contact
+Orozco Yamila - @inglesparaprogramar - yamilaorozco@movimientolearn.com
+Project Link: https://github.com/Yamila-Orozco/inglesParaProgramar
+
+## acknowledgments
+Mermelada Tech por darme el empujón para armarlo 
