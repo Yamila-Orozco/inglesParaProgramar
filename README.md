@@ -1,8 +1,7 @@
 <div align='center'>👩🏽‍💻Teaching English while I learn to Develop😂</div>
 
 # Learning English:
-
-<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/xp8D4vk90x69As5Eib/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlpMWw5eWJnZHNtdW8yczB4d3FncDdrZzVlMnVxZ2JrM3B0aHJreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G8d1SAnoBOImwxc4FU/giphy.gif)
 
 Welcome to the English Learning Repository! This repository serves as a comprehensive resource for anyone looking to improve their English language skills, with a particular focus on English for specific purposes, get a well-paid job in dollars😂.
 (And it will force me to code everyday 🤓)
@@ -243,4 +242,3 @@ a quick and easy-to-understand breakdown of some English grammar.
 * [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag) 🇧🇷→🇬🇧<br />
 YouTube channel of a native American giving English tips.
 
-# inglesParaProgramar
