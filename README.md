@@ -6,6 +6,7 @@
 Welcome to the English Learning Repository! This repository serves as a comprehensive resource for anyone looking to improve their English language skills, with a particular focus on English for specific purposes, get a well-paid job in dollars😂💸.(And it will force me to code everyday 🤓)
 
 <!-- TABLE OF CONTENTS -->
+<div>
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -40,6 +41,7 @@ Welcome to the English Learning Repository! This repository serves as a comprehe
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+</div>
 <!-- TABLE OF CONTENTS FINISHES-->
 
 <!-- START FIRST SECTION-->
@@ -100,6 +102,8 @@ Find out how any English word is pronounced in the real world. It will give you 
 
 - [GetYarn](https://getyarn.io/)<br />
 It is similar to the last one but it will give you the option to download the clip.
+
+- [youglish](https://youglish.com/) <br />
 
 ## Where can I learn basic-general English? 
 #### Blogs and Website
@@ -186,26 +190,28 @@ This free Coursera specialization focuses on mastering intermediate-level gramma
 Download or read English books online for free, categorized by levels (elementary, pre-intermediate, intermediate, advanced...)
 
 ## Games
-- [Wordwall](https://wordwall.net/resource/69182426/) <br />
+- [Wordwall](https://wordwall.net/resource/69182426/) <br /> Wordwall offers interactive games and activities for learning English vocabulary, making studying fun and engaging.
 
-- [Wordwall](https://wordwall.net/resource/69182426/) <br />
-
+- [Genially](https://view.genial.ly/6525eaac15249d0011ed81b3/interactive-content-grammar-english-tech-matrix) <br />
+Genially provides interactive content for learning grammar, allowing users to explore English concepts in a dynamic and visually appealing way.
+- [Quizlet](https://quizlet.com/ ) <br />
+Quizlet is a versatile platform for creating and studying flashcards, quizzes, and other learning materials, offering a variety of study modes and collaborative features.
 - [Memrise](https://www.memrise.com/) <br />
-Addictive, rewarding game, so that you can grow long-term memories of the English vocabulary.
+Memrise uses gamification to help users memorize English vocabulary effectively, providing an addictive and rewarding learning experience.
 
 - [Typeracer](http://play.typeracer.com) <br />
-Improve your spelling and typing speed, you can even race against yourself and others in public and private lobbies.
-
+Typeracer is a typing game that improves spelling and typing speed, allowing users to compete against themselves and others in public and private races.
 - [Kahoot](https://kahoot.com) <br />
-Create a fun learning game in minutes – we call these **kahoots**. You can make a series of multiple-choice questions or try our new game
+Kahoot enables users to create and play fun learning games, known as "kahoots," making learning interactive and engaging with multiple-choice questions and quizzes.
 
 - [Duolingo](https://www.duolingo.com/) <br />
 It is a popular app but it is a bit repetitive.
 
 - [Lingualeo](https://lingualeo.com/) <br />
-Lingualeo is a funny way to learn English online.
+I haven't tested in depth. Lingualeo is a funny way to learn English online.
 
-## Podcasts & Videos
+## Podcasts & Videos 
+### Learning English Podcast
 - [Coffee Break English](https://radiolingua.com/coffee-break-english/) <br />
 Learn to speak English at the same time it takes you to enjoy a cup of coffee each morning. 
 
@@ -219,6 +225,14 @@ Classic stories, with simplified grammar and vocabulary. You can follow the tape
 
 - [Learn English With TV Series](https://www.youtube.com/channel/UCKgpamMlm872zkGDcBJHYDg) <br />
 Are you ready to have a lot of fun learning real-life English with "Learn English with TV Series?"
+
+### Tech Podcast
+- [Bloomberg Technology](https://www.youtube.com/channel/UCbWdUQTf0yYI0GXmZBdmPtA): Bloomberg Technology focuses on the topics of technology, innovation, and business.
+
+- [BBC Click](https://www.youtube.com/user/ClickBBC): BBC Click is the BBC’s flagship technology programme.
+
+- [Sky News Swipe](https://www.youtube.com/playlist?list=PL0F360E8E75DD98AF): Sky News Swipe is Sky News's tech show.
+
 
 ## Certifications and level tests
 - [EF Standard English Test (EF SET)](https://www.efset.org/es/quick-check/): The EF Standard English Test (EF SET) is a quick and convenient way to assess your English proficiency level. It provides instant results and is suitable for learners of all levels.
