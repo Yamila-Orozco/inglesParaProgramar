@@ -6,9 +6,8 @@
 Welcome to the English Learning Repository! This repository serves as a comprehensive resource for anyone looking to improve their English language skills, with a particular focus on English for specific purposes, get a well-paid job in dollars😂💸.(And it will force me to code everyday 🤓)
 
 <!-- TABLE OF CONTENTS -->
-<div>
 <details>
-  <summary>Table of Contents</summary>
+  <summary style="font-size: large ; font-weight: bold;">Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -41,7 +40,7 @@ Welcome to the English Learning Repository! This repository serves as a comprehe
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-</div>
+
 <!-- TABLE OF CONTENTS FINISHES-->
 
 <!-- START FIRST SECTION-->
@@ -51,6 +50,7 @@ The English for Developing "Inglés para Programar" Project is a collaborative i
 <!-- START SECOND SECTION -ROADMAPS IN PROGRESS-->
 ## RoadMap to Learn English
 This section is a work in progress, just like my attempt to follow a step-by-step roadmap to be a developer—let's hope I don't get lost along the way! 😄 I will write a guide for each RoadMap
+
 ### Beginner Roadmap
 The Beginner Roadmap is designed for developers who are just starting their English language learning journey. This roadmap focuses on foundational language skills and includes:
 - [ ] Basic vocabulary lists related to programming concepts and common tech terms.
@@ -216,7 +216,7 @@ I haven't tested in depth. Lingualeo is a funny way to learn English online.
 - [Coffee Break English](https://radiolingua.com/coffee-break-english/) <br />
 Learn to speak English at the same time it takes you to enjoy a cup of coffee each morning. 
 
--[Real-life English](https://reallifeglobal.com/)  Speak and Learn Natural English Anytime, Anywhere. 
+- [Real-life English](https://reallifeglobal.com/)  Speak and Learn Natural English Anytime, Anywhere. 
 
 - [Crash Course Youtube Channel](https://www.youtube.com/user/crashcourse) <br />
 This channel not only has incredibly educational videos but they are easy to digest and helpful as a next step for learning English in a more complex set of situations.
@@ -249,11 +249,14 @@ Are you ready to have a lot of fun learning real-life English with "Learn Englis
 ## Contributing
 Hey there, coder👩🏽‍💻👨🏽‍💻! 👋 We love contributions because they make our open-source community awesome! If you have a brilliant idea to make this project even better, feel free to fork the repo and send us a pull request (Remember that I'm a super junior developer 😂). Or, if you prefer, just drop us a line with your suggestion tagged as "enhancement". And hey, don't forget to give us a star ⭐️! Thanks a bunch for being part of our coding adventure! 
 
-## license
+## License
 
-## contact
-Orozco Yamila - @inglesparaprogramar - yamilaorozco@movimientolearn.com
-Project Link: https://github.com/Yamila-Orozco/inglesParaProgramar
+## Contact Me Orozco Yamila
+FOLLOW ME ON: 
+- [Instagram](https://www.instagram.com/inglesparaprogramar/) @inglesparaprogramar
+- [LinkedIn](https://www.linkedin.com/in/yamila-orozco/ ) Yamila-orozco (Please follow me I need it to create a Newsletters )
+- Project Link: https://github.com/Yamila-Orozco/inglesParaProgramar
+-  Mail: yamilaorozco@movimientolearn.com
 
-## acknowledgments
+## Acknowledgments
 Mermelada Tech por darme el empujón para armarlo 
