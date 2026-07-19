@@ -208,7 +208,7 @@ Kahoot enables users to create and play fun learning games, known as "kahoots," 
 - [Duolingo](https://www.duolingo.com/) <br />
 It is a popular app but it is a bit repetitive.
 
-- [Lingua-e](https://lingua-e.com/?utm_source=github) <br />
+- [Lingua-e](https://www.lingua-e.com/es/a1?utm_source=github) <br />
 Duolingo-style English learning app built specifically for Spanish-speaking developers. Covers the English you actually use at work: daily standups, code reviews, pull requests, and technical interviews.
 
 - [Lingualeo](https://lingualeo.com/) <br />
