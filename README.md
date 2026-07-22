@@ -208,6 +208,9 @@ Kahoot enables users to create and play fun learning games, known as "kahoots," 
 - [Duolingo](https://www.duolingo.com/) <br />
 It is a popular app but it is a bit repetitive.
 
+- [Lingua-e](https://www.lingua-e.com/es/a1?utm_source=github) <br />
+Duolingo-style English learning app built specifically for Spanish-speaking developers. Covers the English you actually use at work: daily standups, code reviews, pull requests, and technical interviews.
+
 - [Lingualeo](https://lingualeo.com/) <br />
 I haven't tested in depth. Lingualeo is a funny way to learn English online.
 
@@ -253,7 +256,7 @@ Hey there, coder👩🏽‍💻👨🏽‍💻! 👋 We love contributions becau
 
 ## Contact Me Orozco Yamila
 FOLLOW ME ON: 
-- [Instagram](https://www.instagram.com/inglesparaprogramar/) @inglesparaprogramar
+- [Instagram](https://www.instagram.com/englishtodevelop/) @englishtodevelop
 - [LinkedIn](https://www.linkedin.com/in/yamila-orozco/ ) Yamila-orozco (Please follow me I need it to create a Newsletters )
 - Project Link: https://github.com/Yamila-Orozco/inglesParaProgramar
 -  Mail: yamilaorozco@movimientolearn.com
