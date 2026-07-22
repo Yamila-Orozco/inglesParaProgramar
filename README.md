@@ -259,7 +259,7 @@ FOLLOW ME ON:
 - [Instagram](https://www.instagram.com/englishtodevelop/) @englishtodevelop
 - [LinkedIn](https://www.linkedin.com/in/yamila-orozco/ ) Yamila-orozco (Please follow me I need it to create a Newsletters )
 - Project Link: https://github.com/Yamila-Orozco/inglesParaProgramar
--  Mail: yamilaorozco@movimientolearn.com
+-  Mail: yamy.english.school@gmail.com
 
 ## Acknowledgments
 Mermelada Tech por darme el empujón para armarlo 
