@@ -101,6 +101,9 @@ Find out how any English word is pronounced in different countries.
 - [Playphrase](https://playphrase.me/) <br />
 Find out how any English word is pronounced in the real world. It will give you a search on YouTube for any video where that phrase or word is said.
 
+- [WinkLingo](https://winklingo.com/en) <br />
+Learn real English from movie clips. Search a phrase and hear it in a real scene.
+
 - [GetYarn](https://getyarn.io/)<br />
 It is similar to the last one but it will give you the option to download the clip.
 
